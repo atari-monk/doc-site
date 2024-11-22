@@ -16,8 +16,9 @@ Notes using markdown files and Github Pages site.
 ### Misc
 
 1. [Jokes](#jokes)
-2. [Names](#names)
-3. [Brain Dump](#brain-dump)
+1. [Quotes](#quotes)
+1. [Names](#names)
+1. [Brain Dump](#brain-dump)
 
 ## Sections
 
@@ -36,7 +37,10 @@ Notes using markdown files and Github Pages site.
 ### Jokes
 
 1. [Risque](content/jokes/risque.md)
-2. [Ryzykowne (Pl)](content/jokes/ryzykowne.md)
+
+### Quotes
+
+1. [Quotes](content/quotes/quotes.md)
 
 ### Names
 
