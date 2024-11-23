@@ -33,7 +33,8 @@ Notes using markdown files and Github Pages site.
 
 ### SnippetHub
 
-1. [Wallpaper Generator](content/snippet_hub/wallpaper_generator.md)
+1. [Formatter Class](content/snippet_hub/formatter_class.md)
+2. [Wallpaper Generator](content/snippet_hub/wallpaper_generator.md)
 
 ### Playlist
 
