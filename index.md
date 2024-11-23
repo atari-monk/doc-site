@@ -6,9 +6,11 @@ Notes using markdown files and Github Pages site.
 
 ### Tech
 
-1. [GitHub](#github)
-2. [Chrome](#chrome)
-3. [SnippetHub](#snippethub)
+1. [Python](#python)
+2. [GitHub](#github)
+3. [Chrome](#chrome)
+4. [SnippetHub](#snippethub)
+5. [Tool](#tool)
 
 ### Playlist
 
@@ -23,6 +25,10 @@ Notes using markdown files and Github Pages site.
 
 ## Sections
 
+### Python
+
+1. [Export](content/python/export.md)
+
 ### GitHub
 
 1. [GitHub Pages Setup](content/github/github_pages_setup.md)
@@ -35,6 +41,10 @@ Notes using markdown files and Github Pages site.
 
 1. [Formatter Class](content/snippet_hub/formatter_class.md)
 2. [Wallpaper Generator](content/snippet_hub/wallpaper_generator.md)
+
+### Tool
+
+1. [Visual Studio Code](content/tool/vs_code.md)
 
 ### Playlist
 
