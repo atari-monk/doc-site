@@ -8,6 +8,7 @@ Notes using markdown files and Github Pages site.
 
 1. [GitHub](#github)
 2. [Chrome](#chrome)
+3. [SnippetHub](#snippethub)
 
 ### Playlist
 
@@ -29,6 +30,10 @@ Notes using markdown files and Github Pages site.
 ### Chrome
 
 1. [Dark Mode](content/chrome/dark_mode.md)
+
+### SnippetHub
+
+1. [Wallpaper Generator](content/snippet_hub/wallpaper_generator.md)
 
 ### Playlist
 
