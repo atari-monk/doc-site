@@ -2,7 +2,7 @@
 
 Notes using markdown files and Github Pages site.
 
-## Links to Sections
+## Categories:
 
 ### Tech
 
@@ -23,7 +23,7 @@ Notes using markdown files and Github Pages site.
 1. [Names](#names)
 1. [Brain Dump](#brain-dump)
 
-## Sections
+## Sections:
 
 ### Python
 
