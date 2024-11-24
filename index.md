@@ -8,38 +8,37 @@
 
 ### Tech
 
-1. [Project](#project)
-2. [Coding](#coding)
-3. [Python](#python)
-4. [GitHub](#github)
-5. [Chrome](#chrome)
-6. [SnippetHub](#snippethub)
-7. [Tool](#tool)
-
-### Playlist
-
-1. [Curated music playlists for focus and relaxation](#music-playlists)
+1. [Coding](#coding)
+2. [Python](#python)
+3. [GitHub](#github)
+4. [Chrome](#chrome)
+5. [SnippetHub](#snippethub)
+6. [Tool](#tool)
 
 ### Misc
 
-1. [Jokes](#jokes)
-2. [Quotes](#quotes)
-3. [Names](#names)
-4. [Brain Dump](#brain-dump)
+1. [Playlist](#playlist)
+2. [Jokes](#jokes)
+3. [Quotes](#quotes)
+4. [Names](#names)
+5. [Brain Dump](#brain-dump)
 
 ## Sections:
 
-### Project
+### Coding
 
 1. [List of my projects](project/list.md)
 2. [Log/Journal](project/log.md)
+3. [Procedure](coding/procedure.md)
+4. [Plans](coding/plans.md)
+5. [Code Base](coding/code_base.md)
+6. [Enjoy](coding/enjoy.md)
 
-### Coding
+#### DOC SITE (this site project)
 
-1. [Enjoy](coding/enjoy.md)
-2. [Procedure](coding/procedure.md)
-3. [Plans](coding/plans.md)
-4. [Code Base](coding/code_base.md)
+1. [Design](project/doc_site/design.md)
+2. [Video](project/doc_site/video.md)
+3. [Upgrades](project/doc_site/upgrades.md)
 
 ### Python
 
@@ -64,10 +63,12 @@
 
 1. [Visual Studio Code](tool/vs_code.md)
 
-### Music Playlists
+### Playlist
 
 1. [Curated music playlists for focus and relaxation](playlist/music.md)
 2. [Curated comedy playlists for fun, enjoy](playlist/comedy.md)
+
+### Comedy
 
 ### Jokes
 
