@@ -1,4 +1,4 @@
-# DOC SITE
+# DOC SITE by atari monk
 
 ## Notes using markdown files and Github Pages site.
 
@@ -31,11 +31,8 @@
 
 ### Project
 
-#### Doc Site
-
-1. [Design](doc_site/design.md)
-2. [Video](doc_site/video.md)
-3. [Upgrades](doc_site/upgrades.md)
+1. [List of my projects](project/list.md)
+2. [Log/Journal](project/log.md)
 
 ### Coding
 
