@@ -79,6 +79,7 @@ notes/
 -   Use tools like Prettier or MarkdownLint to keep your formatting consistent.
 -   Keep `index.md` updated as you add new sections.
 -   Experiment with Markdown extensions for diagrams, tables, or inline LaTeX for equations.
+-   Use Markdown Viewer. It is markdown browser extension. Turn on all permissions. Drag and drop index on browser. Select Theme.
 
 By following this method, you’ll always know where your notes are and can access them quickly and efficiently.
 

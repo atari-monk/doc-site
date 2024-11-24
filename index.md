@@ -1,17 +1,20 @@
 # DOC SITE
 
-Notes using markdown files and Github Pages site.
+## Notes using markdown files and Github Pages site.
+
+**Hint: To toogle dark mode see Tech->Chrome->Dark Mode.**
 
 ## Categories:
 
 ### Tech
 
 1. [Project](#project)
-2. [Python](#python)
-3. [GitHub](#github)
-4. [Chrome](#chrome)
-5. [SnippetHub](#snippethub)
-6. [Tool](#tool)
+2. [Coding](#coding)
+3. [Python](#python)
+4. [GitHub](#github)
+5. [Chrome](#chrome)
+6. [SnippetHub](#snippethub)
+7. [Tool](#tool)
 
 ### Playlist
 
@@ -32,6 +35,14 @@ Notes using markdown files and Github Pages site.
 
 1. [Design](doc_site/design.md)
 2. [Video](doc_site/video.md)
+3. [Upgrades](doc_site/upgrades.md)
+
+### Coding
+
+1. [Enjoy](coding/enjoy.md)
+2. [Procedure](coding/procedure.md)
+3. [Plans](coding/plans.md)
+4. [Code Base](coding/code_base.md)
 
 ### Python
 
@@ -48,7 +59,9 @@ Notes using markdown files and Github Pages site.
 ### SnippetHub
 
 1. [Formatter Class](snippet_hub/formatter_class.md)
-2. [Wallpaper Generator](snippet_hub/wallpaper_generator.md)
+2. [Wallpaper by Generator](snippet_hub/wallpaper_by_generator.md)
+3. [Wallpaper by Shader](snippet_hub/wallpaper_by_shader.md)
+4. [Enjoy code](snippet_hub/enjoy_code.md)
 
 ### Tool
 

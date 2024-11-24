@@ -1,4 +1,4 @@
-# Wallpaper Generator
+# Wallpaper by Generator
 
 ## Write me an application to generate 1920x1080 wallpaper, vector art with transparent background. Where we can add different fun algorithms producing image.
 
