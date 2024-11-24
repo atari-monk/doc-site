@@ -27,8 +27,8 @@
 
 ### Coding
 
-1. [List of my projects](project/list.md)
-2. [Log/Journal](project/log.md)
+1. [List of my projects](coding/list.md)
+2. [Log/Journal](coding/log.md)
 3. [Procedure](coding/procedure.md)
 4. [Plans](coding/plans.md)
 5. [Code Base](coding/code_base.md)
@@ -36,9 +36,9 @@
 
 #### DOC SITE (this site project)
 
-1. [Design](project/doc_site/design.md)
-2. [Video](project/doc_site/video.md)
-3. [Upgrades](project/doc_site/upgrades.md)
+1. [Design](coding/doc_site/design.md)
+2. [Video](coding/doc_site/video.md)
+3. [Upgrades](coding/doc_site/upgrades.md)
 
 ### Python
 
