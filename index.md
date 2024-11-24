@@ -70,6 +70,7 @@
 ### Music Playlists
 
 1. [Curated music playlists for focus and relaxation](playlist/music.md)
+2. [Curated comedy playlists for fun, enjoy](playlist/comedy.md)
 
 ### Jokes
 
