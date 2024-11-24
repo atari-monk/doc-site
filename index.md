@@ -6,24 +6,32 @@ Notes using markdown files and Github Pages site.
 
 ### Tech
 
-1. [Python](#python)
-2. [GitHub](#github)
-3. [Chrome](#chrome)
-4. [SnippetHub](#snippethub)
-5. [Tool](#tool)
+1. [Project](#project)
+2. [Python](#python)
+3. [GitHub](#github)
+4. [Chrome](#chrome)
+5. [SnippetHub](#snippethub)
+6. [Tool](#tool)
 
 ### Playlist
 
-1. [Music](#playlist)
+1. [Curated music playlists for focus and relaxation](#music-playlists)
 
 ### Misc
 
 1. [Jokes](#jokes)
-1. [Quotes](#quotes)
-1. [Names](#names)
-1. [Brain Dump](#brain-dump)
+2. [Quotes](#quotes)
+3. [Names](#names)
+4. [Brain Dump](#brain-dump)
 
 ## Sections:
+
+### Project
+
+#### Doc Site
+
+1. [Design](doc_site/design.md)
+2. [Video](doc_site/video.md)
 
 ### Python
 
@@ -46,9 +54,9 @@ Notes using markdown files and Github Pages site.
 
 1. [Visual Studio Code](tool/vs_code.md)
 
-### Playlist
+### Music Playlists
 
-1. [Music](playlist/music.md)
+1. [Curated music playlists for focus and relaxation](playlist/music.md)
 
 ### Jokes
 
@@ -60,7 +68,7 @@ Notes using markdown files and Github Pages site.
 
 ### Names
 
-1. [Notes Repo](names/names_notes_repo.md)
+1. [Names for Notes Projects](names/notes_projs.md)
 
 ### Brain Dump
 
