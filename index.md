@@ -27,41 +27,41 @@ Notes using markdown files and Github Pages site.
 
 ### Python
 
-1. [Export](content/python/export.md)
+1. [Export](python/export.md)
 
 ### GitHub
 
-1. [GitHub Pages Setup](content/github/github_pages_setup.md)
+1. [GitHub Pages Setup](github/github_pages_setup.md)
 
 ### Chrome
 
-1. [Dark Mode](content/chrome/dark_mode.md)
+1. [Dark Mode](chrome/dark_mode.md)
 
 ### SnippetHub
 
-1. [Formatter Class](content/snippet_hub/formatter_class.md)
-2. [Wallpaper Generator](content/snippet_hub/wallpaper_generator.md)
+1. [Formatter Class](snippet_hub/formatter_class.md)
+2. [Wallpaper Generator](snippet_hub/wallpaper_generator.md)
 
 ### Tool
 
-1. [Visual Studio Code](content/tool/vs_code.md)
+1. [Visual Studio Code](tool/vs_code.md)
 
 ### Playlist
 
-1. [Music](content/playlist/music.md)
+1. [Music](playlist/music.md)
 
 ### Jokes
 
-1. [Risque](content/jokes/risque.md)
+1. [Risque](jokes/risque.md)
 
 ### Quotes
 
-1. [Quotes](content/quotes/quotes.md)
+1. [Quotes](quotes/quotes.md)
 
 ### Names
 
-1. [Notes Repo](content/names/names_notes_repo.md)
+1. [Notes Repo](names/names_notes_repo.md)
 
 ### Brain Dump
 
-1. [Violent History](content/brain_dump/violent_history.md)
+1. [Violent History](brain_dump/violent_history.md)
