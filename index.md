@@ -43,6 +43,7 @@
 ### Python
 
 1. [Export](python/export.md)
+1. [DataClass](python/dataclass.md)
 
 ### GitHub
 

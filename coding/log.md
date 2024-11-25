@@ -23,4 +23,12 @@ Regardless of whether this project is truly necessary or fully logical, I enjoye
 
 ### 08:54
 
-Note on package hierarchy and decided where to move Storage Provider class.
+Note on **_package hierarchy_** and decided where to move Storage Provider class.
+
+### 12:40
+
+From old Storage Provider, created new Storage Provider and Config Provider.  
+These are layer on top of tool functions; for key value type files.  
+Config is used to store path for key value storage file.  
+Key Value storage is some api (crud methods) on json.
+Hope was storage would be usefull for cli command params that can use memory.
