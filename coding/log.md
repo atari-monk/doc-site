@@ -32,3 +32,12 @@ These are layer on top of tool functions; for key value type files.
 Config is used to store path for key value storage file.  
 Key Value storage is some api (crud methods) on json.
 Hope was storage would be usefull for cli command params that can use memory.
+
+### 15:01
+
+Layer 1 - tool functions.  
+Layer 2 - using then with config type data.  
+Layer 3 - using layer 3 methods, orchestrating them.
+This was in context of config/key-value storage files.
+Next: Move layer 3 code to its class.  
+Use it in 2 packages.
