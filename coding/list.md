@@ -29,3 +29,18 @@ Commands are imported from pip packages.
     Logger for cli environment.
 -   [pytoolbox](https://github.com/atari-monk/pytoolbox)
     Small abstractions so i dont have to remember function details.
+
+## Relations between packages
+
+1. Layer 1, independent packages, based only on python.
+
+-   pytoolbox
+-   keyval_storage
+-   cli_logger
+
+2. Layer 2, composite packages, based on python, level 1 and optionally third party pip packages.
+
+-   cli_tool
+    dependencies: pytoolbox, keyval_storage, cli_logger
+-   cli_commands
+    dependencies: pytoolbox, keyval_storage, cli_logger
