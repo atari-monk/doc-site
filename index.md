@@ -22,6 +22,7 @@
 3. [Quotes](#quotes)
 4. [Names](#names)
 5. [Brain Dump](#brain-dump)
+6. [Therapy](#therapy)
 
 ## Sections:
 
@@ -86,3 +87,8 @@
 ### Brain Dump
 
 1. [Violent History](brain_dump/violent_history.md)
+2. [Einstein](brain_dump/einstein.md)
+
+### Therapy
+
+1. [Reproaches](therapy/reproaches.md)
