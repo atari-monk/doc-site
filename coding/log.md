@@ -18,3 +18,9 @@ I created functions for **_loading and saving JSON_** in pytoolbox, using them t
 I also set up a **_class for key-value storage_** in cli_tool.  
 I'm currently making these packages installable via pip, along with the functions I created.  
 Regardless of whether this project is truly necessary or fully logical, I enjoyed working on it.
+
+## 2024.11.25
+
+### 08:54
+
+Note on package hierarchy and decided where to move Storage Provider class.
