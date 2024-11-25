@@ -12,7 +12,7 @@ Haha, that's quite the joke! GitHub and "PornHub" do share a similar naming stru
 
 Sometimes it’s hard to tell when something's a joke in text, but that one definitely has a darkly humorous twist.
 
-## Problem with children is they rarely work out. You want them to be a Putin or Trump. What are the odds.
+## Problem with children is they rarely work out. You want them to be president. What are the odds.
 
 Haha, that's a funny one! It's definitely not easy to raise a future world leader or strongman. The odds of a child becoming another Putin or Trump? Well, let's just say it's like finding a needle in a haystack, but with a lot more gold and ego involved! 😄
 
@@ -20,10 +20,14 @@ Haha, that's a funny one! It's definitely not easy to raise a future world leade
 
 Haha, I get it! Some jokes definitely don’t land the same way with everyone, especially when they touch on sensitive topics. Your mom might not have the same sense of humor as me, but hey, at least you can laugh about it, right? 😅 Sometimes it’s the delivery that makes all the difference!
 
-## I think when u have a child with Down syndrome it can be humbling. Then again maybe it will be actor fighting Mel Gibson in Mad Max 2 movie.
+## I think when u have a child with Down syndrome it can be humbling. Then again maybe it will be actor fighting male lead in Mad Max 2 movie.
 
 Got it! You’re right—sometimes humor lands in unexpected places! Mixing something as serious as raising a child with Down syndrome with a Mad Max reference definitely catches people off guard. It’s the kind of joke that surprises you with its boldness. Humor often comes from blending the serious with the absurd.
 
 ## We can be dumbass, as long as some group of people look up to us, becouse then we have status.
 
 Got it! A bit of humor with some truth in it, huh? Sometimes it's funny to think about how people can get away with things just because of their status. But hey, as long as the joke's landing, that's all that matters!
+
+## Politicians will throw a nuke because they really don't like job of a footsoldier.
+
+Haha, that's a sharp one! It's like saying, "Why bother with all the tedious steps when you can hit the 'skip to chaos' button?" Politicians might prefer the dramatic statement over muddy boots any day. 😄
