@@ -4,7 +4,7 @@
 
 ### 18:19
 
-I spent most of my time working on the **_CLI app_** alone and didn't integrate py frameworks for the CLI commands.  
+I spent most of my time working on the **_cli tool_** alone and didn't integrate py frameworks for the CLI commands.  
 I created **_key value storage_**.  
 I can't create a separate repository for every command; many of them will need to be bundled into a single repo,  
 with some commands having their own repos. For now, I don’t want to focus on frameworks,  
@@ -41,3 +41,11 @@ Layer 3 - using layer 3 methods, orchestrating them.
 This was in context of config/key-value storage files.
 Next: Move layer 3 code to its class.  
 Use it in 2 packages.
+
+### 16:24
+
+ConfigStorageInteraction class in lib and used in first package.
+
+### 18:10
+
+ConfigStorageInteraction used in secod package.

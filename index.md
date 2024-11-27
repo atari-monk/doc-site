@@ -31,9 +31,10 @@
 1. [List of my projects](coding/list.md)
 2. [Log/Journal](coding/log.md)
 3. [Procedure](coding/procedure.md)
-4. [Plans](coding/plans.md)
-5. [Code Base](coding/code_base.md)
-6. [Enjoy](coding/enjoy.md)
+4. [Project Documentation Templete](coding/project_documentation_templete.md)
+5. [Plans](coding/plans.md)
+6. [Code Base](coding/code_base.md)
+7. [Enjoy](coding/enjoy.md)
 
 #### DOC SITE (this site project)
 
@@ -43,8 +44,9 @@
 
 ### Python
 
-1. [Export](python/export.md)
-1. [DataClass](python/dataclass.md)
+1. [Debugger](python/debugger.md)
+2. [Export](python/export.md)
+3. [DataClass](python/dataclass.md)
 
 ### GitHub
 
@@ -56,14 +58,15 @@
 
 ### SnippetHub
 
-1. [Formatter Class](snippet_hub/formatter_class.md)
-2. [Wallpaper by Generator](snippet_hub/wallpaper_by_generator.md)
-3. [Wallpaper by Shader](snippet_hub/wallpaper_by_shader.md)
-4. [Enjoy code](snippet_hub/enjoy_code.md)
+1. [Task Analysis](snippet_hub/task_analysis.md)
+2. [Formatter Class](snippet_hub/formatter_class.md)
+3. [Wallpaper by Generator](snippet_hub/wallpaper_by_generator.md)
+4. [Wallpaper by Shader](snippet_hub/wallpaper_by_shader.md)
+5. [Enjoy code](snippet_hub/enjoy_code.md)
 
 ### Tool
 
-1. [Visual Studio Code](tool/vs_code.md)
+1. [Visual Studio Code Tips/Trics](tool/vs_code.md)
 
 ### Playlist
 
@@ -86,8 +89,9 @@
 
 ### Brain Dump
 
-1. [Violent History](brain_dump/violent_history.md)
-2. [Einstein](brain_dump/einstein.md)
+1. [Competitive](brain_dump/competitive.md)
+2. [Violent History](brain_dump/violent_history.md)
+3. [Einstein](brain_dump/einstein.md)
 
 ### Therapy
 
