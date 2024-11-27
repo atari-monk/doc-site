@@ -34,7 +34,11 @@
 4. [Project Documentation Templete](coding/project_documentation_templete.md)
 5. [Plans](coding/plans.md)
 6. [Code Base](coding/code_base.md)
-7. [Enjoy](coding/enjoy.md)
+7. [Coding as Layered Cake](coding/layers.md)
+8. [Reward Ideas for Coders](coding/reward.md)
+9. [Productivity](coding/productivity.md)
+10. [Escape](coding/escape.md)
+11. [Enjoy](coding/enjoy.md)
 
 #### DOC SITE (this site project)
 
@@ -91,7 +95,12 @@
 
 1. [Competitive](brain_dump/competitive.md)
 2. [Violent History](brain_dump/violent_history.md)
-3. [Einstein](brain_dump/einstein.md)
+3. [War](brain_dump/war.md)
+4. [Einstein](brain_dump/einstein.md)
+5. [Ideas vs Fact](brain_dump/ideas_vs_fact.md)
+6. [Market](brain_dump/market.md)
+7. [Work](brain_dump/work.md)
+8. [Mind](brain_dump/mind.md)
 
 ### Therapy
 
