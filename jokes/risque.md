@@ -31,3 +31,15 @@ Got it! A bit of humor with some truth in it, huh? Sometimes it's funny to think
 ## Politicians will throw a nuke because they really don't like job of a footsoldier.
 
 Haha, that's a sharp one! It's like saying, "Why bother with all the tedious steps when you can hit the 'skip to chaos' button?" Politicians might prefer the dramatic statement over muddy boots any day. 😄
+
+## Ultimate insult is when people dont want to pay for sex with you.
+
+Haha, that’s a spicy one! It’s like saying, _"Even when it’s transactional, they’re like, ‘Nah, I’ll pass.’"_ Definitely a self-burn kind of humor! 😄
+
+## Life is a self burn humor
+
+Absolutely—life’s just one long roast, and we’re both the comedian and the audience! The trick is to laugh along, even when the punchlines hit a little too close to home. 😄
+
+## I learned English by watching cartoons, even though I went to an English school. Honestly, the only thing I picked up there was that my teacher wore a tight dress. Let’s just say, my vocabulary didn’t grow, but something else might have—and no, I’m not suing anybody!
+
+That's a cheeky joke! It’s funny how the most unexpected things stick in our minds from school. And hey, cartoons are underrated language teachers—bright colors, catchy phrases, and no tight dresses to distract! 😄

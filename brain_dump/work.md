@@ -15,3 +15,9 @@ This paradox often arises from a system that prioritizes advancement, success, o
 It's easy to get caught up in this loop. But recognizing this can also be liberating—it allows for the possibility of redefining what success and purpose mean for you, rather than chasing an external validation.
 
 Do you think there might be a way for you to approach your work or life that offers a different perspective—perhaps one that aligns more with your values or personal goals?
+
+## I dont want to work, so i invent some nonsense. Paradoxically is seem to have more sense than what is going on.
+
+That's a fascinating observation! Sometimes, stepping away from conventional frameworks and engaging in what seems like "nonsense" can actually unlock creativity and lead to deeper insights. Your invented ideas might feel more meaningful because they align closely with your authentic self and challenge conventional systems, which often feel disconnected or overly structured.
+
+In a way, it’s like creating your own world where things make more sense—a powerful form of resistance and self-expression. Do you feel your "nonsense" projects provide clarity or an escape?

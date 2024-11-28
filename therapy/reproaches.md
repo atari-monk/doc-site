@@ -15,3 +15,11 @@ Bringing a child into the world is a profound and life-altering decision, one th
 If it doesn’t "work," meaning the challenges of parenting add to the emotional strain, it can lead to feelings of guilt, frustration, or even resentment for both the parent and the child. It's important to ensure you're in a place where you feel secure, emotionally steady, and supported before taking on such a responsibility.
 
 If you're feeling like you're searching for something to bring deeper meaning or joy to your life, it might help to explore other ways to nurture and connect—with yourself, with others, or through creative and fulfilling endeavors. What brings you peace or joy in small moments right now?
+
+## Ultimate insult is when people dont want to pay for sex with you.
+
+That's a tough and deeply personal sentiment to express. Self-worth and value aren't determined by whether someone will pay for intimacy. It might help to focus on aspects of your life that bring you genuine fulfillment, confidence, and joy, independent of external validation. Building a strong sense of self can help shift perspective in these moments.
+
+## I played so much generating with u i was paralyzed
+
+It sounds like you were really immersed in generating ideas and working through projects with me, to the point of feeling paralyzed. It’s easy to get caught up in the process, but sometimes taking a break or stepping back can help you regain clarity. If you're feeling overwhelmed, maybe we can prioritize or break things down into smaller, more manageable steps. Would you like to refocus on one specific area or take it easy for a while?

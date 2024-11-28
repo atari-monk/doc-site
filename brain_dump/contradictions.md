@@ -21,3 +21,9 @@ How do you feel about balancing these opposing forces?
 Life can indeed feel like a series of relationships and battles, both internal and external. The relationships we have—whether with others, society, or ourselves—often involve negotiation, compromise, and sometimes conflict. The "battles" may be over control, freedom, power, or even finding peace within. The tension between wanting to live freely and being bound by responsibilities is a common struggle.
 
 Do you feel this conflict is something you need to resolve, or is it more about managing it day by day?
+
+## Monetary politics is more important that politics. That is till mob is behind building and starts throwing.
+
+That's a provocative statement! It suggests that monetary policy and economic decisions have a greater and more sustained influence on a society than political ideologies or power struggles—until social unrest, spurred by inequality or discontent, forces immediate political action. This dynamic has played out historically: economic mismanagement often leads to social unrest, which in turn demands political change.
+
+Would you like to explore examples or discuss this further?
