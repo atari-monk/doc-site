@@ -1,4 +1,4 @@
-# Therapy kind of chat
+# Reproaches
 
 ## They threw me out of every place they could. That only means i don't like politics. I still am tainted with some kind of mind.
 

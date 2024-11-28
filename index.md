@@ -93,15 +93,25 @@
 
 ### Brain Dump
 
-1. [Competitive](brain_dump/competitive.md)
-2. [Violent History](brain_dump/violent_history.md)
-3. [War](brain_dump/war.md)
-4. [Einstein](brain_dump/einstein.md)
-5. [Ideas vs Fact](brain_dump/ideas_vs_fact.md)
-6. [Market](brain_dump/market.md)
-7. [Work](brain_dump/work.md)
-8. [Mind](brain_dump/mind.md)
+2. [Ambition](brain_dump/ambition.md)
+3. [Competitive](brain_dump/competitive.md)
+4. [Duty](brain_dump/duty.md)
+5. [Intelligence](brain_dump/intelligence.md)
+6. [Jobs](brain_dump/job.md)
+7. [Violent History](brain_dump/violent_history.md)
+8. [War](brain_dump/war.md)
+9. [Einstein](brain_dump/einstein.md)
+10. [Ideas vs Fact](brain_dump/ideas_vs_fact.md)
+11. [Market](brain_dump/market.md)
+12. [Work](brain_dump/work.md)
+13. [Mind](brain_dump/mind.md)
+14. [Life Style](brain_dump/life_style.md)
+15. [Lawyers](brain_dump/lawyers.md)
+16. [Contradictions](brain_dump/contradictions.md)
 
 ### Therapy
 
-1. [Reproaches](therapy/reproaches.md)
+1. [Losing](therapy/losing.md)
+2. [Reproaches](therapy/reproaches.md)
+3. [Fail](brain_dump/fail.md)
+4. [Bills](brain_dump/bills.md)
