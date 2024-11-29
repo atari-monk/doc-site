@@ -113,10 +113,15 @@
 13. [Life Style](brain_dump/life_style.md)
 14. [Lawyers](brain_dump/lawyers.md)
 15. [Contradictions](brain_dump/contradictions.md)
-16. [Business](brain-dump/business.md)
-17. [Matrix](brain-dump/matrix.md)
-18. [Label](brain-dump/label.md)
-19. [Fertility](brain-dump/fertility.md)
+16. [Business](brain_dump/business.md)
+17. [Matrix](brain_dump/matrix.md)
+18. [Label](brain_dump/label.md)
+19. [Fertility](brain_dump/fertility.md)
+20. [Movies](brain_dump/movies.md)
+21. [Rules](brain_dump/rules.md)
+22. [Species](brain_dump/species.md)
+23. [Allan Watts](brain_dump/allan_watts.md)
+24. [AI](brain_dump/ai.md)
 
 ### Therapy
 
