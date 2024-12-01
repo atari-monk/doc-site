@@ -17,13 +17,14 @@
 
 ### Misc
 
-1. [Playlist](#playlist)
-2. [Jokes](#jokes)
-3. [Quotes](#quotes)
-4. [Names](#names)
-5. [Brain Dump](#brain-dump)
-6. [Therapy](#therapy)
-7. [Interests](#Interests)
+1. [Health](#health)
+2. [Playlist](#playlist)
+3. [Jokes](#jokes)
+4. [Quotes](#quotes)
+5. [Names](#names)
+6. [Brain Dump](#brain-dump)
+7. [Therapy](#therapy)
+8. [Interests](#Interests)
 
 ## Sections:
 
@@ -76,6 +77,10 @@
 ### Tool
 
 1. [Visual Studio Code Tips/Trics](tool/vs_code.md)
+
+### Health
+
+1. [Chair](health/chair.md)
 
 ### Playlist
 
