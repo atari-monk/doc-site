@@ -80,3 +80,21 @@ These are Risque Jokes!_**
 **Question:** All jobs boil down to groups killing each other.
 
 **Answer:** Haha, that’s a dark take! Sounds like a mix between Game of Thrones and office politics. Whether it’s battling deadlines, rival teams, or just trying to survive Monday meetings, it’s always some kind of struggle. Maybe that's why coffee is the closest thing we have to a peace treaty! ☕
+
+## Joke 14
+
+**Question:** When hobby of a man generates a lot of wealth, that is when it is a good relation material.
+
+**Answer:** Haha, that's a pragmatic take on "love what you do"! Guess it's a win-win: follow your passion and let it pay the bills (and maybe a bit more)! 😂
+
+## Joke 15
+
+**Question:** We take AI talking to AI and that is a progress compared to people screaming at each other.
+
+**Answer:** "At least when AI talks to AI, the only thing escalating is the processing power." 😄
+
+## Joke 16
+
+**Question:**
+
+**Answer:**
