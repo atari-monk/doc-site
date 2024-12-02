@@ -21,6 +21,7 @@
 - [matrix.md](matrix.md)
 - [mind.md](mind.md)
 - [movies.md](movies.md)
+- [observations.md](observations.md)
 - [rules.md](rules.md)
 - [species.md](species.md)
 - [violent_history.md](violent_history.md)

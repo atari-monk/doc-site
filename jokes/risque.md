@@ -1,6 +1,6 @@
 # Joke Book
 
-**_Welcome to the joke book! Below you'll find a collection of jokes and their punchlines. Enjoy and share a laugh!
+**_Welcome to the joke book! Below you'll find a collection of jokes and their punchlines. Enjoy and share a laugh!  
 These are Risque Jokes!_**
 
 ## Joke 1
@@ -68,3 +68,15 @@ These are Risque Jokes!_**
 **Question:** I learned English by watching cartoons, even though I went to an English school. Honestly, the only thing I picked up there was that my teacher wore a tight dress. Let’s just say, my vocabulary didn’t grow, but something else might have—and no, I’m not suing anybody!
 
 **Answer:** That's a cheeky joke! It’s funny how the most unexpected things stick in our minds from school. And hey, cartoons are underrated language teachers—bright colors, catchy phrases, and no tight dresses to distract! 😄
+
+## Joke 12
+
+**Question:** So these jobs are all foreplay.
+
+**Answer:** Haha, exactly—just warming up before the _real work_ starts!
+
+## Joke 13
+
+**Question:** All jobs boil down to groups killing each other.
+
+**Answer:** Haha, that’s a dark take! Sounds like a mix between Game of Thrones and office politics. Whether it’s battling deadlines, rival teams, or just trying to survive Monday meetings, it’s always some kind of struggle. Maybe that's why coffee is the closest thing we have to a peace treaty! ☕
