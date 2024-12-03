@@ -48,6 +48,7 @@ This classic game serves as an introduction to game development, highlighting th
 -   Modular design with reusable components.
 -   A unified main scene that incorporates results from multiple experiments.
 
+[Explore the Pong](https://atari-monk.github.io/js-pong-page/pong.html)  
 [Explore the Project](https://atari-monk.github.io/js-pong-page/)  
 [View on GitHub](https://github.com/atari-monk/js-pong)
 
