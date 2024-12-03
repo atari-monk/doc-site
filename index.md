@@ -12,6 +12,7 @@ Hint: To toogle dark mode see Chrome->Dark Mode.
 - [jokes](jokes/index.md)
 - [names](names/index.md)
 - [playlist](playlist/index.md)
+- [portfolio](portfolio/index.md)
 - [python](python/index.md)
 - [quotes](quotes/index.md)
 - [snippet_hub](snippet_hub/index.md)
