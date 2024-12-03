@@ -2,9 +2,7 @@
 
 **Question:** Py script to simulate metronome
 
-Here’s a Python script to simulate a metronome:
-
-
+Hereâ€™s a Python script to simulate a metronome:
 
 ```python
 
@@ -20,7 +18,7 @@ def metronome(bpm: int, beats: int):
 
     Simulate a metronome.
 
-    
+
 
     Args:
 
@@ -66,22 +64,18 @@ if __name__ == "__main__":
 
 ```
 
-
-
 ### How to Use
 
 1. Save this script to a file (e.g., `metronome.py`).
 
 2. Run it from the terminal or command line:
 
-   ```bash
+    ```bash
 
-   python metronome.py --bpm 120 --beats 8
+    python metronome.py --bpm 120 --beats 8
 
-   ```
+    ```
 
-   Replace `120` with your desired BPM and `8` with the number of beats to simulate. 
-
-
+    Replace `120` with your desired BPM and `8` with the number of beats to simulate.
 
 3. Press `Ctrl+C` to stop the metronome manually.
