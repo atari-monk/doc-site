@@ -1,3 +1,4 @@
 # web_dev
 
-- [nx_web_template.md](nx_web_template.md)
+- [001_nx_web_template.md](001_nx_web_template.md)
+- [002_socket_io_setup.md](002_socket_io_setup.md)
