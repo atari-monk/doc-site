@@ -18,3 +18,4 @@ Hint: To toogle dark mode see Chrome->Dark Mode.
 - [snippet_hub](snippet_hub/index.md)
 - [therapy](therapy/index.md)
 - [tool](tool/index.md)
+- [web_dev](web_dev/index.md)
